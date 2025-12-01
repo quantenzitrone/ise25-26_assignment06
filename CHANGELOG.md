@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2025-12-02
+
+### Added
+
+- Add API and all needed endpoints for storing Users.
+
+### Changed
+
+- n/a
+
+### Deleted
+
+- n/a
+
+
 ## [0.0.3] - 2025-11-21
 
 ### Added
